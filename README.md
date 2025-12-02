@@ -1,6 +1,7 @@
+
 # Auditoría de vulnerabilidades con OpenVAS (laboratorio)
 
-Este repositorio recoge un trabajo práctico de auditoría de vulnerabilidades realizado con OpenVAS/Greenbone en un **entorno de laboratorio**. El objetivo es documentar de forma ordenada el proceso completo: instalación de la herramienta, configuración inicial, realización de escaneos, análisis de resultados, demostración de parcheo y configuración de alertas y monitorización continua.
+Este repositorio recoge un trabajo práctico de auditoría de vulnerabilidades realizado con **OpenVAS/Greenbone** en un **entorno de laboratorio**. El objetivo es documentar de forma ordenada el proceso completo: instalación de la herramienta, configuración inicial, realización de escaneos, análisis de resultados, demostración de parcheo y configuración de alertas y monitorización continua.
 
 Todo el trabajo se ha realizado sobre sistemas Linux y redes controladas, con fines exclusivamente formativos.
 
@@ -14,6 +15,8 @@ Todo el trabajo se ha realizado sobre sistemas Linux y redes controladas, con fi
 - Demostrar el proceso de **parcheo de vulnerabilidades** detectadas.
 - Configurar **monitorización continua** de objetivos.
 - Configurar **alertas por correo electrónico** ante cambios en el estado de las vulnerabilidades.
+
+---
 
 ## Estructura del repositorio
 
