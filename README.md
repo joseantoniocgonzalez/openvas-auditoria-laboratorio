@@ -19,7 +19,6 @@ Todo el trabajo se ha realizado sobre sistemas Linux y redes controladas, con fi
 
 ## Estructura del repositorio
 
-```text
 openvas-auditoria-laboratorio
 ├── Escaneres de vulnerabilidades
 │   ├── Análisis detallado informes obtenidos.md
